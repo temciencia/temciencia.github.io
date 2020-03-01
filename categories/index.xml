@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | TemCiência</title>
+    <link>https://temciencia.github.io/categories/</link>
+      <atom:link href="https://temciencia.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020</copyright>
+    <image>
+      <url>https://temciencia.github.io/images/logo_hu3f956f5f582cb3b93dfa732b225a8376_110604_300x300_fit_lanczos_2.png</url>
+      <title>Categories</title>
+      <link>https://temciencia.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
